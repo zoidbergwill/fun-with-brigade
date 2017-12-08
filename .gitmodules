@@ -1,0 +1,12 @@
+[submodule "brigade"]
+	path = brigade
+	url = https://github.com/Azure/brigade.git
+  branch = master
+[submodule "kashti"]
+	path = kashti
+	url = https://github.com/Azure/kashti.git
+  branch = master
+[submodule "brigade-test-repo"]
+	path = brigade-test-repo
+  url = https://github.com/zoidbergwill/brigade-test-repo.git
+  branch = master
